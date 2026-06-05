@@ -1,9 +1,12 @@
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=archita1303&label=Profile+Views">
+</p>
 <h1 align="center">Hey, I'm Archita</h1>
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com/?lines=Java+Developer;DSA+Learner;Future+Software+Engineer&center=true&width=500&height=50">
 </p>
-## 👩‍💻 About Me
+
 
 - 🎓 B.Tech Student (2027 Batch)
 - 💻 Learning Java, DSA and Development
@@ -20,10 +23,13 @@
 
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge)
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge)
+
 
 ## 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=archita1303&show_icons=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=archita1303&layout=compact)
+## 🏆 LeetCode
+
+Currently solving DSA problems daily.
