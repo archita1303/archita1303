@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=archita1303&label=Profile+Views">
-</p>
+
 <h1 align="center">Hey, I'm Archita</h1>
 
 <p align="center">
