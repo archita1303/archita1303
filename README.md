@@ -1,8 +1,15 @@
+<h1 align="center">✨ Archita Pandit ✨</h1>
 
+<h3 align="center">
+Java Developer | DSA Enthusiast | B.Tech 2027
+</h3>
 <h1 align="center">Hey, I'm Archita</h1>
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com/?lines=Java+Developer;DSA+Learner;Future+Software+Engineer&center=true&width=500&height=50">
+</p>
+<p align="center">
+<img src="https://media.giphy.com/media/.../giphy.gif" width="400">
 </p>
 
 
