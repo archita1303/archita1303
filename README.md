@@ -1,16 +1,13 @@
-## Hi there 👋
 
-<!--
-**archita1303/archita1303** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hey, I'm Archita Pandit
 
-Here are some ideas to get you started:
+## B.Tech Student (2027 Batch)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Learning Java & DSA
+
+🌱 Currently solving LeetCode problems
+
+🚀 Interested in Web Development and AI
+
+📫 Reach me: archita1303@gmail.com
+
